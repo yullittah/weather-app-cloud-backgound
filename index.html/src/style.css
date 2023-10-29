@@ -1,0 +1,54 @@
+.city {
+    color: #3431f3;
+    font-size: 60px;
+  }
+  .temperature {
+    font-size: 70px;
+  }
+  .search {
+    background-color: #3431f3;
+    color: white;
+    border-radius: 8px;
+    padding: 4px 15px;
+    border-style: none;
+  }
+  body {
+    background-image: url("src/beach.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  p {
+    color: rgb(3, 18, 104);
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    font-size: 30;
+    font-weight: bold;
+  }
+  button {
+    border-radius: 40 px;
+    color: blue;
+  }
+  
+  .emoji {
+    font-size: 100px;
+  }
+  .form {
+    background-color: #3431f3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  input[type="text"] {
+    border: 2px solid #3431f3;
+    border-radius: 10px;
+  }
+  
