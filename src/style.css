@@ -13,7 +13,8 @@
     border-style: none;
   }
   body {
-    background-image: url("src/beach.jpg");
+
+    background-image: url("beach.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
